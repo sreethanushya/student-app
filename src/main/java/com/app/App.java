@@ -6,6 +6,6 @@ public class App {
 
         System.out.println("Student Details:");
         System.out.println("Name: Thanu");
-        System.out.println("Marks: 95");
+        System.out.println("Marks: 98");
     }
 }
