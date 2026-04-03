@@ -7,10 +7,8 @@ public class App {
 
         System.out.println("Student Details:");
         System.out.println("Name: Thanu");
-<<<<<<< HEAD
-        System.out.println("Marks: 98");
-=======
+
         System.out.println("Marks: 96");
->>>>>>> 0cc280f (changes made again)
+
     }
 }
